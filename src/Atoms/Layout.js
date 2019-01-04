@@ -13,5 +13,7 @@ export const Application = styled.main`
 
 // PRIMARY CONTENT AREA
 export const Section = styled.section`
-  max-width: 66rem;
+  display: flex;
+  align-items: center;
+  padding: 4rem;
 `
